@@ -1,0 +1,36 @@
+[{
+	"time": 1542324596,
+	"name": "Test 1 (iOS 11)",
+	"package": "com.test.1",
+	"size": 1,
+	"version": "1.0",
+	"section": "Tweaks"
+}, {
+	"version": "0.0~beta2a",
+	"section": "Tweaks",
+	"size": 1,
+	"name": "Test 2",
+	"package": "com.test.2",
+	"time": 1542318718
+}, {
+	"section": "Tweaks",
+	"version": "0.0~beta3b",
+	"size": 1,
+	"name": "Test 3",
+	"package": "com.test.3",
+	"time": 1542318690
+}, {
+	"package": "com.test.4",
+	"name": "Test 4",
+	"time": 1542318688,
+	"size": 1,
+	"section": "Tweaks",
+	"version": "0.0~beta1"
+}, {
+	"section": "Tweaks",
+	"version": "0.0",
+	"size": 1,
+	"name": "Test 5",
+	"time": 1542318658,
+	"package": "com.test.5"
+}]
