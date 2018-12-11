@@ -9,7 +9,7 @@ Requisitos para su uso
 Mac OS: (Posiblemente funcione no se anexa guia)
 
 iOS:  iPhone/iPad (Probado en 11.3.1 JB)
-* Dene instalar Perl de la repo http://repo.bingner.com/  si neccesita json.pm se encuentra en la carpeta Extra
+* Debe instalar Perl de la repo http://repo.bingner.com/  si neccesita json.pm se encuentra en la carpeta Extra
 
 
 Debian/Linux:  Guia (Cualquier distro deberia funcionar)
@@ -17,19 +17,19 @@ Debian/Linux:  Guia (Cualquier distro deberia funcionar)
 
 Windows 10 Debian Terminal:
 
-En esta ocacion Realice la Guia Bajo Windows 10 Decargado Debian
+En esta ocacion Realice la Guia Bajo Windows 10 Decargando Debian
 https://www.microsoft.com/en-us/p/debian-gnu-linux/9msvkqc78pk6?activetab=pivot:overviewtab
 
 
-Una vez instalado abrimos la terminal de debian y configuramos el usuario y contraseña.
+Una vez instalado abrimos el terminal de debian y configuramos el usuario y contraseña.
 
-comandos por Orden:
+Comandos por Orden:
 
 --------------<b>GUIA</b>-------------------
 
 <b>sudo -s</b>  (Utilizaremos para no estar escribiendo sudo en cada comando)
 
-<b>apt-get update</b> (actualizar lista de paquetes)
+<b>apt-get update</b> (actualizar lista de paquetes en debian para instalar)
 
 $<b>apt-get install git</b>
 $<b>apt-get install git-core</b>
@@ -45,7 +45,7 @@ $<b>git clone https://github.com/sharklatan/Template-Cydia</b>
 //////////////////<b>opcional</b>//////////////////////
 
 
-(opcional por si no sabes manejar mucho terminal demora en instalar)
+(opcional por si no sabes manejar mucho terminal, demora en instalar)
 $<b>apt-get install nautilus</b>
 
 (Instalar complemento Windows para ver ventanas de Linux grafico)
