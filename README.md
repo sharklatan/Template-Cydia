@@ -9,10 +9,13 @@ Requisitos para su uso
 Mac OS: (Posiblemente funcione no se anexa guia)
 
 iOS:  iPhone/iPad (Probado en 11.3.1 JB)
-* Debe instalar Perl de la repo http://repo.bingner.com/  si neccesita json.pm se encuentra en la carpeta Extra
+* Tweaks : Filza + NewTerm2
+* Debe instalar Perl de la repo http://repo.bingner.com/  
+* json.pm se encuentra en la carpeta Extra
 
 
-Debian/Linux:  Guia (Cualquier distro deberia funcionar)
+
+Debian/Linux: (Cualquier distro deberia funcionar)
 
 
 Windows 10 Debian Terminal:
