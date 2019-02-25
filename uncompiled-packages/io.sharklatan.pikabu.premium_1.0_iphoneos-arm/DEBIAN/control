@@ -1,0 +1,12 @@
+Package: io.sharklatan.pikabu.premium
+Version: 1.0
+Section: JonaiPhone
+Maintainer: SharkLatan <SharkLatan@gmail.com>
+Description: Minimalistic volume hud on the notch, Headphone detection, Support iOS 11.3.x
+Depends: mobilesubstrate
+Conflicts: com.repo.xarold.com.pikabu, com.mrmadtw.pikabulite, cydia.kiiimo.org.pikabu, com.hackyouriphone.pikabu
+Architecture: iphoneos-arm
+Depiction: https://sharklatan.github.io/cydia/info.html?id=io.sharklatan.pikabu.premium
+Name: Pikabu Premium
+Author: Jeffrey Chan
+

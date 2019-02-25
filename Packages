@@ -1,0 +1,17 @@
+Package: io.sharklatan.pikabu.premium
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: SharkLatan <SharkLatan@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.repo.xarold.com.pikabu, com.mrmadtw.pikabulite, cydia.kiiimo.org.pikabu, com.hackyouriphone.pikabu
+Filename: deb/io.sharklatan.pikabu.premium_1.0_iphoneos-arm.deb
+Size: 222124
+MD5sum: ca3463d4a2a095b3547190bc623dd0d3
+SHA1: 34bd29ede77a14a49a8c86fbfb043a34049e7bf2
+SHA256: bf10253b9633b8331338c0aa6e1767b5e723d34d7732fbfa403b8c8f8223bc82
+Section: JonaiPhone
+Description: Minimalistic volume hud on the notch, Headphone detection, Support iOS 11.3.x
+Author: Jeffrey Chan
+Depiction: https://sharklatan.github.io/cydia/info.html?id=io.sharklatan.pikabu.premium
+Name: Pikabu Premium
+
